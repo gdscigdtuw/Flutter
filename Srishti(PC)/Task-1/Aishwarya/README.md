@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Working of the project
+![TestImage](flutter.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
